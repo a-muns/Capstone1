@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "venv/lib/python3.8/site-packages/Flask-2.2.2.dist-info/INSTALLER": [
+      {
+        "id": "ad4733a4-8a2d-4dce-b977-900675ad4409",
+        "line": 2,
+        "version": 1,
+        "index": 4
+      }
+    ]
+  }
 }
